@@ -1,0 +1,2 @@
+https://slack.dev/bolt-js/deployments/aws-lambda
+https://www.npmjs.com/package/@slack/web-api

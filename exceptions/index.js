@@ -1,0 +1,1 @@
+exports.BaseException = require('./base.exception.js');
